@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import {SafeAreaView, StatusBar, Text} from 'react-native'
+import {SafeAreaView, StatusBar, Text} from 'react-native';
 
 const App = () => {
   return (
@@ -10,7 +10,7 @@ const App = () => {
         <Text>{'Concursar'}</Text>
       </SafeAreaView>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
